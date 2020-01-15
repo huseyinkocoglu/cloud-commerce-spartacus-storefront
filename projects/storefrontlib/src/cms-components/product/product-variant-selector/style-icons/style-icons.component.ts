@@ -13,7 +13,7 @@ import {
 } from '@spartacus/core';
 
 @Component({
-  selector: 'cx-style-icons',
+  selector: 'cx-variant-style-icons',
   templateUrl: './style-icons.component.html',
   styleUrls: ['./style-icons.component.scss'],
   changeDetection: ChangeDetectionStrategy.OnPush,
